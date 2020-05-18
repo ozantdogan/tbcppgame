@@ -1,0 +1,26 @@
+﻿  Darkest Dungeon.cpp
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(16,23): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(164,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(167,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(760,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(877,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(900,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(903,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(945,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(948,55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(949,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(950,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2325,39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2359,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2364,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2389,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2476,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2482,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2483,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2496,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2550,103): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2556,103): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2578,95): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2392,9): warning C4101: 'b': unreferenced local variable
+C:\Users\ozand\source\repos\Darkest Dungeon\Darkest Dungeon\Darkest Dungeon.cpp(2390,9): warning C4101: 'skillInput': unreferenced local variable
+  Darkest Dungeon.vcxproj -> C:\Users\ozand\source\repos\Darkest Dungeon\Debug\Darkest Dungeon.exe
