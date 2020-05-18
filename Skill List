@@ -1,0 +1,39 @@
+--------
+CRUSADER
+--------
+
+1. SMITE (Attack)
+Position :    1 or 2
+Target :      1 or 2
+Base Acc:     85
+Damage Mod:   0
+Crit Mod:     0    
+Stun Effect:  NO
+
+2. STUNNING BLOW (Attack)
+Position :    1 or 2
+Target :      1 or 2
+Base Acc:     90
+Damage Mod:   -50
+Crit Mod:     0  
+Stun Effect:  YES
+Stun Base:    100
+
+3. HOLY LANCE (Attack)
+Position :    3 or 4
+Target :      2, 3 or 4
+Base Acc :    85
+Damage Mod:   -50
+Crit Mod:     0
+Stun Effect:  NO
+Move:         Forward 1
+
+4. BULWARK OF FAITH (Utility)
+Position:     1 or 2
+Target:       SELF
+Effect:       +20 Prot for 3 round
+
+------
+VESTAL
+------
+
